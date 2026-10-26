@@ -37,3 +37,7 @@ git commit -m (message) "alasan simpannya apa"
 ```
 
 ini adalah tulisan tambahan
+tes
+tes
+auuuuuuuuuuuuuuuuu
+tes
